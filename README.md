@@ -31,6 +31,11 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 
 ![Michigami](https://www.woodtv.com/wp-content/uploads/sites/51/2021/05/Cover-Township-Park-Covert.jpg)
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 ## How to start this course
 
 1. Right-click **Start course** and open the link in a new tab.
