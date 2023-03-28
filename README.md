@@ -35,6 +35,10 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
 ## How to start this course
 
